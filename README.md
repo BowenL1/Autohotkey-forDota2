@@ -1,5 +1,5 @@
 # Autohotkey-forDota2
-simplify Tinker in Dota2
+simplify Tinker in Dota2 without getting account banned.
 
 Install Autohotkey first, download all this package to your computer.
 When it shows Tinker! after click Tinker.ahk or Tinker.exe, hotkey runs sucessfully. Use Alt+Enter to suspend Hotkey.
